@@ -1,0 +1,2 @@
+# Hatsuse-Izuna
+Bot Discord
