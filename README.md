@@ -1,2 +1,3 @@
 # Hatsuse-Izuna
-Bot Discord
+## Commandes
+
